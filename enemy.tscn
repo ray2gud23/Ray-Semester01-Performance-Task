@@ -6,6 +6,7 @@
 radius = 165.605
 
 [node name="Enemy" type="RigidBody2D"]
+gravity_scale = 2.66454e-15
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(911, 327)
